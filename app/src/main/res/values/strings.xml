@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="locations">
+        <item>San Fernando</item>
+        <item>San Simon</item>
+        <item>Pulilan</item>
+        <item>Santa Rita</item>
+    </string-array>
+</resources>
